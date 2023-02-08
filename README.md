@@ -24,14 +24,14 @@ O sistema é dividido em microsserviços com propositos diferentes, cada um com 
 
 O sistema de autenticação é feito por esse serviço, de forma descentralizada.
 
-[Click aqui para o repositório do serviço de login](https://github.com/JoaoGabrielOliveira/healthstock-login).
+[Click aqui para o repositório do serviço de login](https://github.com/GHRMeneses/healthstock-login).
 
 
 ## Serviço de Produtos
 
 O sistema para gerenciamento dos produtos ofertados para nossa aplicação. Dentre suas principais funções é o cadastro de produtos e retorno dos produtos cadastrados
 
-[Click aqui para o repositório do serviço de produtos](https://github.com/JoaoGabrielOliveira/healthstock-products).
+[Click aqui para o repositório do serviço de produtos](https://github.com/GHRMeneses/healthstock-products).
 
 ## Serviço de Pedidos
 
